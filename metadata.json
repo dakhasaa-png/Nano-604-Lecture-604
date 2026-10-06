@@ -1,0 +1,6 @@
+{
+  "name": "NANO604 SPM Master Lecture - Сканнинг проб микроскопи",
+  "description": "NANO604 Ахисан түвшний нанотехнологи хичээлийн 30 слайд бүхий Сканнинг проб микроскопи (SPM) мастер лекц, интерактив шинжлэх ухааны загварчлал, багшийн тэмдэглэл.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
