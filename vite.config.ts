@@ -20,3 +20,10 @@ export default defineConfig(() => {
     },
   };
 });
+export default defineConfig(() => {
+  return {
+    base: '/Nano-604-Lecture-604/',
+    plugins: [react(), tailwindcss()],
+    // ...
+  };
+});
